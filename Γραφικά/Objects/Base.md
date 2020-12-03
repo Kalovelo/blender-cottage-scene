@@ -1,7 +1,0 @@
-# Base
-
-Created: Nov 3, 2020 3:27 PM
-
-![Base%20e67bb25d8030430389239def23269081/Untitled.png](Base%20e67bb25d8030430389239def23269081/Untitled.png)
-
-![Base%20e67bb25d8030430389239def23269081/Untitled%201.png](Base%20e67bb25d8030430389239def23269081/Untitled%201.png)
