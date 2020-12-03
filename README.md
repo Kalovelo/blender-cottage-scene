@@ -1,15 +1,6 @@
 ## Rendered Image
 ![./rendered-image.jpg](./rendered-image.jpg)
 
-## Rendered Video 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./rendered-video.avi">
-    <source src="./rendered-video.avi" type="video/mp4">
-    <source src="./rendered-video.avi" type="video/ogg">
-    <source src="./rendered-video.avi" type="video/webm">
-  </video>
-</figure>
-
 ## Progress
 
 
