@@ -3,6 +3,24 @@
 
 ## Progress
 
+### Objects
+
+- [Background](./Progress/Objects/Background.md)
+- [Barrel](./Progress/Objects/Barrel.md)
+- [Base](./Progress/Objects/Base.md)
+- [Bump Mapping](./Progress/Objects/Bump_Mapping.md)
+- [Cottage](./Progress/Objects/Cottage.md)
+- [Displacement Mapping](./Progress/Objects/Displacement_Mapping.md)
+- [Firepit](./Progress/Objects/Firepit.md)
+- [Flowers](./Progress/Objects/flowers.md)
+- [Moon Sun](./Progress/Objects/Moon_Sun.md)
+- [Bridge](./Progress/Objects/platform.md)
+- [portals](./Progress/Objects/portals.md)
+- [textures](./Progress/Objects/textures.md)
+- [Tree Animation](./Progress/Objects/tree_animation.md)
+- [Wall](./Progress/Objects/Wall.md)
+- [Water](./Progress/Objects/Water.md)
+- [Well](./Progress/Objects/Well.md)
 
 ### Tasks (w/o animation)
 
@@ -67,37 +85,3 @@
 - Background Image
 
     ![Progress/Untitled%2011.png](Progress/Untitled%2011.png)
-
-### Scene
-
-- [x]  Well
-- [x]  House
-- [x]  Falling leave Trees
-- [x]  [Firepit](https://www.youtube.com/watch?v=1mJr6LDtbEM)
-- [x]  Sun and Moon Rotation
-- [x]  Floating barrel ([https://www.youtube.com/watch?v=UQJQW9wUIso](https://www.youtube.com/watch?v=UQJQW9wUIso))
-- [x]  Ember animation tune
-- [x]  Add kilos to bricks
-- [x]  Displacement mapping
-- [x]  Animation: grow apples
-- [x]  Background Image
-- [x]  Camera Placement
-
-### Objects
-
-- [Background](./Progress/Objects/Background.md)
-- [Barrel](./Progress/Objects/Barrel.md)
-- [Base](./Progress/Objects/Base.md)
-- [Bump Mapping](./Progress/Objects/Bump_Mapping.md)
-- [Cottage](./Progress/Objects/Cottage.md)
-- [Displacement Mapping](./Progress/Objects/Displacement_Mapping.md)
-- [Firepit](./Progress/Objects/Firepit.md)
-- [Flowers](./Progress/Objects/flowers.md)
-- [Moon Sun](./Progress/Objects/Moon_Sun.md)
-- [Bridge](./Progress/Objects/platform.md)
-- [portals](./Progress/Objects/portals.md)
-- [textures](./Progress/Objects/textures.md)
-- [Tree Animation](./Progress/Objects/tree_animation.md)
-- [Wall](./Progress/Objects/Wall.md)
-- [Water](./Progress/Objects/Water.md)
-- [Well](./Progress/Objects/Well.md)
